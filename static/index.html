@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Speech-to-Text</title>
+  <link rel="icon" type="image/x-icon" href="/public/images/favicon.ico">
+  <link rel="stylesheet" href="/public/css/styles.css">
+</head>
+<body>
+    
+  <div class="container">
+    <h1 class="header">Talk to ChatGPT</h1> 
+    <div class="transcript-container">
+      <p>Transcript: <span id="transcript"></span></p>
+      <p>ChatGPT Response: <span id="chatGptResponse"></span></p>
+    </div>
+    <div class="loader" id="loader"></div>
+    <div>
+      <button id="startTranscription">Start Transcription</button>
+      <button id="stopTranscription">Stop Transcription</button>
+    </div>
+    
+  </div>
+
+  <script src="/public/js/script.js"></script>
+</body>
+</html>
