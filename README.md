@@ -1,1 +1,1 @@
-# talk_to_chatgpt
+# convo_with_chatgpt
