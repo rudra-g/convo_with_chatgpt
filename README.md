@@ -41,7 +41,7 @@ Replace `your_chatgpt_access_token` with the actual access token for the ChatGPT
 npm start
 ```
 
-2. Open your web browser and visit `http://localhost:3000`.
+2. Open your web browser and visit `http://localhost:<specified port>`.
 
 3. Click on the "Start Transcription" button to begin speech recognition.
 
