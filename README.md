@@ -74,4 +74,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## Support
 
-If you have any questions or need assistance, feel free to contact me at rudrarajghosh8@example.com.
+If you have any questions or need assistance, feel free to contact me at rudrarajghosh8@gmail.com.
